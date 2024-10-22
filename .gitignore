@@ -4,3 +4,5 @@
 /node_modules/
 /var/
 /vendor/
+
+yarn.lock
